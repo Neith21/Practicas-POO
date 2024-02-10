@@ -15,10 +15,6 @@
 	{
 		return Salario * 0.1;
 	}
-	~Empleado()
-	{
-		Console.WriteLine($"El empleado {Nombre} ha sido eliminado.");
-	}
 }
 
 public class Gerente : Empleado
