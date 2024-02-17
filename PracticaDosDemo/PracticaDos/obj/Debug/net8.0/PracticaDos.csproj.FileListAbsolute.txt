@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\bin\Debug\net8.0\PracticaDos.exe
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\bin\Debug\net8.0\PracticaDos.deps.json
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\bin\Debug\net8.0\PracticaDos.runtimeconfig.json
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\bin\Debug\net8.0\PracticaDos.dll
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\bin\Debug\net8.0\PracticaDos.pdb
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.AssemblyInfo.cs
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.dll
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\refint\PracticaDos.dll
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.pdb
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\PracticaDos.genruntimeconfig.cache
+C:\Users\crist\source\repos\PracticaDosDemo\PracticaDos\obj\Debug\net8.0\ref\PracticaDos.dll
