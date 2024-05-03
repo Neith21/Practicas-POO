@@ -1,7 +1,7 @@
 ﻿using Spectre.Console;
- class CuentaBancaria
+ public class CuentaBancaria
 {
-    private double saldo;
+    public double saldo;
 
     public CuentaBancaria(double saldoInicial)
     {
@@ -56,7 +56,7 @@ public class SaldoInsuficienteException : Exception
     { }
 }
 
-internal class Program
+public class Program
 {
     private static void Main(string[] args)
     {
